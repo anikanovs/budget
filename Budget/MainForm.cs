@@ -6,17 +6,5 @@ namespace Budget
         {
             InitializeComponent();
         }
-
-        private void InitializeComponent()
-        {
-            SuspendLayout();
-            // 
-            // MainForm
-            // 
-            ClientSize = new Size(284, 261);
-            Name = "MainForm";
-            ResumeLayout(false);
-
-        }
     }
 }
